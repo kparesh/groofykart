@@ -1,0 +1,56 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@charset "UTF-8";
+/* Base Styles */
+
+
+.rupee:before{
+    content: "\f156";
+}
+.proname{
+	    font-size: 15px;
+}
+.proweight{
+	    color: #8C8484;
+}
+.lower{
+	height:30px;
+	}
+.upper{
+	height: 270px;
+    position: relative;
+}
+.navright {
+    width: 50%;
+    height: 60px;
+    float: right;
+    padding: 10px;
+}
+.navleft{
+	width: 50%;
+	float:left;
+}
+.proimg{
+	float:right;
+}
+.fevicon_img{
+    width: 50px;
+}
+ul.menuleft li {
+    list-style: none;
+    font-size: 18px;
+}
+ul.menuleft li a {
+    color: #000;
+    font-size: 17px;
+	text-decoration: none !important;
+}
+ul.menuleft li a:hover {
+    color: #3FB549;
+}
+
+div.vertical-line{
+  width: 0px; /* Use only border style */
+  height: 100%;
+  float: left; 
+  border: 1px inset; /* This is default border style for <hr> tag */
+}

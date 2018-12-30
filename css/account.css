@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+/*-- Account --*/
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+   	
+	background-image:url(../images/back-car.jpg);
+}
+.col-xs-12.my-account {
+    padding: 7px;
+}
+.col-xs-12.acc-back-color {
+   -webkit-box-shadow: -13px -8px 12px -7px rgba(152,156,158,1);
+-moz-box-shadow: -13px -8px 12px -7px rgba(152,156,158,1);
+box-shadow: -13px -8px 12px -7px rgba(152,156,158,1);
+
+
+}
+.inner-container {
+   
+   margin-left: 5%;
+    margin-right: 5%;
+}
+.col-xs-12.acc-back-color {
+	border-radius: 4px 4px 4px 4px;
+-moz-border-radius: 4px 4px 4px 4px;
+-webkit-border-radius: 4px 4px 4px 4px;
+border: 1px solid #b0b0b0;
+}
+
+.acc-back-color{
+	background-color:#fff;
+	padding:20px;
+	
+}
+.container-class{
+	   
+    padding: 150px;
+	
+	
+}
+.log-out{
+	float:right;
+}
+.my-account{
+	    padding: 4px;
+		margin-bottom:8px;
+      border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-bottom: 1px solid #ADA4A4;
+}
+h2.acc-name {
+    padding: 0px;
+    margin: 0px;
+	color:#8A8A8A;
+}
+a {
+    color: #29C129;
+}
+.acc-tab{
+	width:100%;
+}
+.nav-tabs>li{
+	width:33.33%;
+}
+.acc-name{
+	float:left;
+}
+p.add-area {
+    font-size: 17px;
+}
+div#address {
+    padding: 15px;
+}
+p.add-area {
+    font-size: 17px;
+    MARGIN-BOTTOM: 24px;
+    margin-top: 10px;
+}
+p.add-area.pintab {
+    padding-top: 39px;
+}
+.col-xs-12.acc-order {
+    margin-top: 5px;
+    border-radius: 5px;
+   
+    padding-top: 14px;
+    font-weight: 700;
+    font-size: 17px;
+   
+    background-color: #D2D2D2;
+}
+.col-xs-12.acc-list {
+    padding-top: 17px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #D2D2D2;
+    margin-top: 5px;
+}
+.remover-icon
+{
+	text-align:center;
+	}
+.glyphicon-remove:before {
+        cursor: pointer;
+}
+/*-- list--*/
+.no-padding{
+	padding:0px;
+}	
+p.list-name-style{
+	    font-size: 13px;
+    color: #4e4f53;
+}
+.plus-minus{
+	    width: 21px;
+    padding-right: 6px;
+    padding: 2px;
+    padding-left: 6px;
+    background: #A7A7A7;
+    border-radius: 5px;
+    color: #fff;
+	float:left;
+}
+.plus-minus:hover {
+    cursor: pointer;
+    background: #4BB145;
+}
+.total-item{
+	padding-left:5px;
+	padding-right:5px;
+	float:left;
+}
+.list-price-style{
+	font-size:11px;
+	color:#7f8187;
+}
+
+
+
+
+
+
+

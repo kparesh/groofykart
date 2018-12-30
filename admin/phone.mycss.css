@@ -1,0 +1,27 @@
+/* CSS Document */
+
+.container-form{
+	padding:10px 0;
+}
+.input-group input.form-control {
+    margin: 10px 0;
+}
+.col-lg-offset-3.col-lg-6 {
+    margin: 0 22%;
+}
+.input-group input.form-control {
+    margin: 10px 0;
+    font-size: 53px;
+    height: 98px;
+}
+.btn{
+    font-size: 60px;	
+}
+.table>tbody>tr>td, .table>thead>tr>th{
+	font-size:40px;
+}
+/*@media only screen and (max-width: 800px) {
+   .container-fluid.container-form {
+    padding: 10px;
+}
+}*/
